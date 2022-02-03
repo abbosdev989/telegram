@@ -1,0 +1,15 @@
+.sider-parent{
+    background-color: #914ad2;
+    color: white;
+    height: 750px;
+}
+.content-parent{
+    background-color: #7736b1;
+    color: white;
+}
+.history-chat{
+    height: 600px;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

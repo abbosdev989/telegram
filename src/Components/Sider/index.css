@@ -1,0 +1,10 @@
+.sider .user:hover{
+    background-color: #1f88bd;
+    color: white;
+    cursor: pointer;
+    transition: 300ms all linear;
+}
+.sider .activeUser{
+    background-color: #0271a9;
+    color: white;
+}

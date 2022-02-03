@@ -1,0 +1,27 @@
+.content .content-header{
+    height: 90px;
+    background-color: #0271a9;
+    color: white;
+    padding: 1rem;
+}
+.history-chat{
+    height: 600px;
+    background-color: rgba(0, 136, 204, 0.91);
+}
+.content .message{
+    height: 50px;
+    background-color: #0c234d;
+    margin: 10px;
+    border-radius:10px;
+    font-size: 18px;
+    padding: 0.5rem;
+}
+.content span{
+    font-size: 12px;
+    float: right;
+    margin-top: 7px;
+    font-weight: bold;
+}
+.content .tous{
+    margin-left: 515px;
+}
